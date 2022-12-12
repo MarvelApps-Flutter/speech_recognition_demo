@@ -1,4 +1,4 @@
-# speech_recognition_demo
+# Speech Recognition Demo
 
 A flutter app demonstrating the speech to text implementation in flutter.
 
@@ -6,7 +6,7 @@ A flutter app demonstrating the speech to text implementation in flutter.
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/speech_recognition_demo/blob/master/working_demo/.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/speech_recognition_demo/blob/master/working_demo/speech_recognition_module.gif" height="480px"></td>
     </tr>
   </table>
 
